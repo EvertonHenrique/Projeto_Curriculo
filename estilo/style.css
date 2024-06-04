@@ -49,6 +49,10 @@ article > ul {
      margin: 1px;
 }
 
+a {
+     text-align: center;
+}
+
 footer {
      background-color: black;
      color: white;
