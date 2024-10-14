@@ -33,7 +33,7 @@ main {
 }
 
 main h3 {
-     background-color: rgba(0, 0, 0, 0.764);
+     background-color: black;
      color: white;
      border: 1px solid black;
      border-radius: 10px;
