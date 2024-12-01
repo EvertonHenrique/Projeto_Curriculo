@@ -7,12 +7,13 @@ body {
 
 header {
      text-align: center;
-     padding: 2px;   
+     padding: 1px;   
+     font-size: 15px;
      
 }
 
 header > dl {
-     padding: 5px;
+     padding: 10px;
      margin: 0px;
 }
 
