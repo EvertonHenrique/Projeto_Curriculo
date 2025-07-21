@@ -46,17 +46,23 @@ section {
 }
 
 article {
-     padding: 3px;
+     padding: 5px;
      margin: 1px;
 }
 
 article > ul {
      margin: auto;
+     padding: auto;
+}
+
+#FormAcademica {
+     margin: auto;
+     padding: 5px;
 }
 
 .cursos {
      margin: auto;    
-     padding: 15px;
+     padding: 20px;
 }
 
 
