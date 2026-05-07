@@ -2,26 +2,45 @@
 
 body {
      font-family: Arial, Helvetica, sans-serif;
-     font-size: 12px;
-     height: 200px;
+     font-size: 10px;
+     margin: auto;
+     padding: auto;
+     text-align: justify;
 }
 
 header {
-     text-align: center;
-     margin: auto;
+     margin: 20px;
      padding: 10px;
+     text-align: left;
+     font-size: 15px;
      
 }
 
-header > img {
+header > h1 {
+     background-color: #c7effc;
+     border-radius: 5px;
+     width: 700px;
+     margin: 0px;
+     padding: 10px;
+     font-size: 20px;    
+     
+}
+
+header img {
      background-image: 5px;
-     font-size: 5px;
+     font-size: 11px;
+     margin-left: 5px;
      
 }
 
 header > dl {
-     padding: 5px;
+     text-align: left;
+     background-color: #f0f7ff;
+     border-radius: 5px;
+     width: 700px;
+     padding: 10px;
      margin: 0px;
+     font-size: 15px;
 }
 
 header a {
@@ -37,23 +56,26 @@ header a:hover {
 main {
      text-align: justify;
      margin: 15px;
-     padding: 5px;
-}
-
-main h3 {
-     background-color: rgb(0, 0, 0);
-     color: white;
-     border: 1px solid black;
-     border-radius: 10px;
      padding: 10px;
 }
 
+main h3 {
+     background-color: #eaeff0;
+     border: 1px solid rgba(219, 255, 251, 0.878);
+     border-radius: 10px;
+     padding: 10px;
+     height: 10px;
+     width: 700px;
+     
+}
+
 section {
+     font-size: 11px;
      font-weight: 100;
 }
 
 article {
-     padding: 5px;
+     padding: 4px;
      margin: 1px;
 }
 
